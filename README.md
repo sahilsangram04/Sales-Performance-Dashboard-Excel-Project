@@ -36,7 +36,7 @@ This dashboard helps identify:
 - Performance gaps across teams
 
 ## Project Screenshots
-
+![Dashboard](dashboard-final.png)
 
 ## Author
 Sahil Sangram Mohanty
